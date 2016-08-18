@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 wengehenhaodehenhao
 wojiuyaogai
 Creating a new branch is quick
+xintianjiade
